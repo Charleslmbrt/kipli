@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Maison-Neue-Mono";
+  src: url("/static/fonts/Maison-Neue-Mono.ttf") format("truetype");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "PPWoodland-Bold";
+  src: url("/static/fonts/PPWoodland-Bold.otf") format("opentype");
+  font-weight: bold;
+  font-style: normal;
+}
+
+body {
+  font-family: "Maison-Neue-Mono", sans-serif;
+  color: #fffbf8;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "PPWoodland-Bold", sans-serif;
+}
