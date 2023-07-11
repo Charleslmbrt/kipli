@@ -7,14 +7,14 @@
 
 @font-face {
   font-family: "PPWoodland-Bold";
-  src: url("/static/fonts/PPWoodland-Bold.otf") format("opentype");
+  src: url("/static/fonts/PPWoodland-Bold.ttf") format("truetype");
   font-weight: bold;
   font-style: normal;
 }
 
 body {
   font-family: "Maison-Neue-Mono", sans-serif;
-  color: #fffbf8;
+  color: #314d3c;
 }
 
 h1,
@@ -24,4 +24,5 @@ h4,
 h5,
 h6 {
   font-family: "PPWoodland-Bold", sans-serif;
+  color: #314d3c;
 }
