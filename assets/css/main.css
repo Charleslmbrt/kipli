@@ -15,6 +15,7 @@
 body {
   font-family: "Maison-Neue-Mono", sans-serif;
   color: #314d3c;
+  background-color: #fffbf8;
 }
 
 h1,
@@ -25,4 +26,8 @@ h5,
 h6 {
   font-family: "PPWoodland-Bold", sans-serif;
   color: #314d3c;
+}
+
+.secondary-menu {
+  font-family: "PPWoodland-Bold";
 }

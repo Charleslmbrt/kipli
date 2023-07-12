@@ -1,5 +1,5 @@
 <template>
-    <div class="container-banner flex justify-between items-center bg-[#314D3C] text-[#fffbf8] h-11 w-full px-3.5 text-xs tracking-[0.25em]">
+    <div class="container-banner flex justify-between items-center bg-[#314D3C] text-[#fffbf8] h-11 w-full px-5 text-xs tracking-[0.25em]">
      <div class="notice flex items-center">
       <div class="notice-stars flex mr-2">
         <img class="w-3 h-3" src="/star.svg" alt="star 1">
